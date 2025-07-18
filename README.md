@@ -50,4 +50,4 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
 
 ---
 
-✨ *Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer juntos.*  
+✨ *Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer juntos.* ✨ 
