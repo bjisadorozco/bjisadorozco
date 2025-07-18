@@ -18,6 +18,7 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,flutter,dart,tailwind,php,dotnet,nodejs,express,mysql,postgres,mongodb,notion,jquery,gitlab,npm,vite,firebase,aws,docker,git,github,vscode,visualstudio,powershell,postman,jira" /></p>
+  
 ---
 
 ## 📈 Estadísticas de GitHub
