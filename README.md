@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Brayan Orozco
 
-Soy un **Desarrollador Full Stack** en formación con experiencia en el desarrollo de soluciones web y móviles.  
-Me especializo en construir aplicaciones escalables y optimizadas, aplicando buenas prácticas, metodologías ágiles y tecnologías modernas.  
-Mi objetivo es seguir creciendo como profesional, aprendiendo continuamente y aportando valor a cada proyecto en el que participo.
+Soy un **Desarrollador Full Stack** en formación con experiencia en la creación de soluciones web y móviles, especializado en tecnologías modernas y prácticas ágiles. He trabajado en proyectos que involucran diseño, desarrollo y optimización de aplicaciones tanto en el front-end como en el back-end, con un enfoque en la experiencia del usuario y la eficiencia del código. Promuevo continuamente mi crecimiento profesional mediante el aprendizaje de nuevas herramientas y frameworks, con una actitud proactiva y comprometida.
 
 ---
 
@@ -12,7 +10,7 @@ Mi objetivo es seguir creciendo como profesional, aprendiendo continuamente y ap
 - 👨🏻‍💻 Experiencia en front-end, back-end y liderazgo técnico de equipos.
 - 🌱 Siempre dispuesto a aprender nuevas tecnologías y asumir nuevos retos.
 - 💬 Pregúntame sobre desarrollo web, móviles, metodologías ágiles y optimización de procesos.
-- 📫 Puedes contactarme en: [brayanorozco920@gmail.com](mailto:brayanorozco920@gmail.com)
+- 📫 Puedes contactarme en: [brayanorozco920@gmail.com](mailto:brayanorozco920@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bjisadorozco/)
 
 ---
 
@@ -26,10 +24,22 @@ Mi objetivo es seguir creciendo como profesional, aprendiendo continuamente y ap
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjisadorozco&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjisadorozco&theme=default" />
-</p>
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bjisadorozco&show_icons=true&theme=default" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bjisadorozco&theme=default" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjisadorozco&layout=pie&theme=default" />
+
+</td>
+</tr>
+</table>
 
 ---
 
