@@ -2,6 +2,10 @@
 
 Soy un **Desarrollador Full Stack** en formación con experiencia en la creación de soluciones web y móviles, especializado en tecnologías modernas y prácticas ágiles. He trabajado en proyectos que involucran diseño, desarrollo y optimización de aplicaciones tanto en el front-end como en el back-end, con un enfoque en la experiencia del usuario y la eficiencia del código. Promuevo continuamente mi crecimiento profesional mediante el aprendizaje de nuevas herramientas y frameworks, con una actitud proactiva y comprometida.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bjisadorozco&label=Profile%20views&color=0e75b6&style=flat" alt="bjisadorozco" />
+</p>
+
 ---
 
 ## 🚀 Sobre mí
