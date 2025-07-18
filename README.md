@@ -45,7 +45,7 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
 ## 📚 Actualmente
 
 - 🔭 Trabajando como **Instructor de Ofimática Empresarial**
-- 🌱 Perfeccionando mis habilidades en back-end y arquitecturas modernas
+- 🌱 Fortaleciendo mis competencias como Full Stack, integrando buenas prácticas DevOps y metodologías ágiles.
 - 👯 Abierto a colaborar en proyectos open source y desafíos técnicos
 
 ---
