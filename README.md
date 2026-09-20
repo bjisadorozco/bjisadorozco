@@ -27,7 +27,6 @@ Soy un **Desarrollador Full Stack** con experiencia en la creación de solucione
     <td align="right"><b>Móvil</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Móvil" />
-      <span style="margin-left:8px;">React Native, Expo</span>
     </td>
   </tr>
   <tr>
@@ -51,8 +50,7 @@ Soy un **Desarrollador Full Stack** con experiencia en la creación de solucione
   <tr>
     <td align="right"><b>Herramientas</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,jira,npm" alt="Herramientas" />
-      <span style="margin-left:8px;">Android Studio, SCORM, Notion</span>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,npm" alt="Herramientas" />
     </td>
   </tr>
 </table>
