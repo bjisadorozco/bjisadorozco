@@ -42,7 +42,7 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
     <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,postman,jira,notion,npm" alt="Herramientas" /></td>
   </tr>
 </table>
-
+  
 ---
 
 ## 💼 Lo que hago
@@ -65,4 +65,4 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
 
 ---
 
-✨ *Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer juntos.* ✨
+✨ *Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer juntos.* ✨ 
