@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Brayan Orozco
 
-Soy un **Desarrollador Full Stack** en formación con experiencia en la creación de soluciones web y móviles, especializado en tecnologías modernas y prácticas ágiles. He trabajado en proyectos que involucran diseño, desarrollo y optimización de aplicaciones tanto en el front-end como en el back-end, con un enfoque en la experiencia del usuario y la eficiencia del código. Promuevo continuamente mi crecimiento profesional mediante el aprendizaje de nuevas herramientas y frameworks, con una actitud proactiva y comprometida.
+Soy un **Desarrollador Full Stack** con experiencia en la creación de soluciones web y móviles, especializado en tecnologías modernas y prácticas ágiles. He trabajado en proyectos que involucran diseño, desarrollo y optimización de aplicaciones tanto en el front-end como en el back-end, con un enfoque en la experiencia del usuario y la eficiencia del código. Promuevo continuamente mi crecimiento profesional mediante el aprendizaje de nuevas herramientas y frameworks, con una actitud proactiva y comprometida.
 
 ---
 
@@ -19,30 +19,44 @@ Soy un **Desarrollador Full Stack** en formación con experiencia en la creació
 <table>
   <tr>
     <td align="right"><b>Front-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,jquery,vite" alt="Front-end" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,vite" alt="Front-end" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Móvil</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Móvil" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Móvil" />
+      <span style="margin-left:8px;">React Native, Expo</span>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet" alt="Back-end" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,java,spring" alt="Back-end" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Bases de datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Bases de datos" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle" alt="Bases de datos" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>DevOps y Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab" alt="DevOps y Cloud" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,vercel" alt="DevOps y Cloud" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Herramientas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,postman,jira,notion,npm" alt="Herramientas" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,jira,npm" alt="Herramientas" />
+      <span style="margin-left:8px;">Android Studio, SCORM, Notion</span>
+    </td>
   </tr>
 </table>
-  
+
 ---
 
 ## 💼 Lo que hago
